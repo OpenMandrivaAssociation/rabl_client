@@ -6,7 +6,6 @@ License:	GPL
 Group:		System/Servers
 URL:		http://www.nuclearelephant.com/projects/rabl/
 Source0:	http://www.nuclearelephant.com/projects/rabl/sources/%{name}-%{version}.tar.bz2
-BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
 %description
 The Reactive Autonomous Blackhole List (RABL) client.
