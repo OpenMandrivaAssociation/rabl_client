@@ -4,7 +4,7 @@ Version:	1.0.0
 Release:	5
 License:	GPL
 Group:		System/Servers
-URL:		http://www.nuclearelephant.com/projects/rabl/
+URL:		https://www.nuclearelephant.com/projects/rabl/
 Source0:	http://www.nuclearelephant.com/projects/rabl/sources/%{name}-%{version}.tar.bz2
 BuildRoot:	%{_tmppath}/%{name}-%{version}-buildroot
 
